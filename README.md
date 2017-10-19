@@ -2,6 +2,8 @@
 
 Yunu API文档
 
+[在线文档地址](https://mkzxcvbnm.gitbooks.io/api/)
+
 ---
 
 {% method %}
