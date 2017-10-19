@@ -1,18 +1,49 @@
 {
-    "plugins": [ "theme-api" ],
+    "title": "Api",
+    "author": "mk",
+    "description" : "Yunu Api",
+    "language": "zh-hans",
+    "plugins": [
+        "theme-api",
+        "github",
+        "book-summary-scroll-position-saver",
+        "expandable-chapters",
+        "splitter",
+        "anchor-navigation-ex",
+        "tbfed-pagefooter",
+        "editlink",
+        "styles-less",
+        "collapsible-chapters",
+        "versions"
+    ],
+    "theme-default": {
+        "showLevel": true
+    },
     "pluginsConfig": {
         "theme-api": {
+            "theme": "dark",
             "languages": [
                 {
-                    "lang": "js",
-                    "name": "JavaScript",
+                    "lang": "V1",
+                    "name": "V1",
                     "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
                 }
             ]
+        },
+        "github": {
+            "url": "https://github.com/mkzxcvbnm/Api"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"yunu",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "editlink": {
+            "base": "https://www.gitbook.com/book/mkzxcvbnm/api/edit",
+            "label": ""
+        },
+        "versions": {
+            "type": "branches"
         }
     }
 }
