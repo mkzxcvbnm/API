@@ -21,7 +21,7 @@
     },
     "pluginsConfig": {
         "theme-api": {
-            "split": true,
+            "split": false,
             "theme": "dark",
             "languages": [
                 {

@@ -6,7 +6,9 @@ Yunu API文档
 
 ## 请求URL格式
 
-    http://域名/index.php/Api/API接口名称
+    http://域名/index.php/Api/版本号/API接口名称
+
+> 版本号为可选 默认调用master接口
 
 ## 请求方式
 
@@ -15,6 +17,13 @@ Yunu API文档
 ## 服务器返回数据类型
 
 * json/jsonp
+
+## 返回状态state
+
+|状态码|别名|
+|:----:|:--:|
+|`200`|请求成功|
+|`400`|请求失败|
 
 {% sample lang="THML" %}
 
