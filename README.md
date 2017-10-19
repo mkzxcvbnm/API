@@ -16,6 +16,8 @@ Yunu API文档
 
 > 当前文档版本为`V1`
 
+> [在线文档地址](https://mkzxcvbnm.gitbooks.io/api/content/)
+
 ## 请求方式
 
 * GET/POST
