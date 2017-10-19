@@ -3,6 +3,7 @@
 * [概述](README.md)
 
 ## API接口
+* [content](api/content.md)
 * [config](api/config.md)
 * [list](api/list.md)
 * [link](api/link.md)
