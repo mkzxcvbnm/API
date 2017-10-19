@@ -2,8 +2,6 @@
 
 Yunu API文档
 
-[在线文档地址](https://mkzxcvbnm.gitbooks.io/api/)
-
 ---
 
 {% method %}
@@ -17,6 +15,9 @@ Yunu API文档
 > 推荐在url中带上版本号，可以避免因API升级带来的兼容问题
 
 > 当前最新版本为`V1`
+
+> [在线文档地址](https://mkzxcvbnm.gitbooks.io/api/content/)
+
 
 ## 请求方式
 
