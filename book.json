@@ -1,7 +1,7 @@
 {
-    "title": "Api",
+    "title": "API",
     "author": "mk",
-    "description" : "Yunu Api",
+    "description" : "Yunu API",
     "language": "zh-hans",
     "plugins": [
         "theme-api",
@@ -24,14 +24,14 @@
             "theme": "dark",
             "languages": [
                 {
-                    "lang": "V1",
-                    "name": "V1",
+                    "lang": "html",
+                    "name": "html",
                     "default": true
                 }
             ]
         },
         "github": {
-            "url": "https://github.com/mkzxcvbnm/Api"
+            "url": "https://github.com/mkzxcvbnm/API"
         },
         "tbfed-pagefooter": {
             "copyright":"yunu",
