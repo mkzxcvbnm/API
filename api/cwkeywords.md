@@ -3,23 +3,30 @@
 > 显示长尾关键词组合列表
 
 {% method %}
-**参数**
+
+## 请求URL
+
+    http:/域名/index.php/Api/cwkeywords
+
+## 参数
 *无*
 
-**字段**
+{% sample lang="THML" %}
 
-|字段名|别名|
-|:----:|:--:|
-|{$cwkeywords.name}|名称|
-|{$cwkeywords.url}|链接|
+## 例子
 
-{% sample lang="php" %}
-**例子**
+**请求示例**
 
-```html
-<yunu:cwkeywords>
-    <a href="{$cwkeywords.url}">{$cwkeywords.name}</a>&nbsp;&nbsp;&nbsp;&nbsp;
-</yunu:cwkeywords>
+> http://www.yunucms.cn/index.php/api/cwkeywords
+
+**响应示例**
+
+```json
+{
+    "state": 200,
+    "info": "请求成功",
+    "data": ["厂家", "报价", "哪家好", "批发"]
+}
 ```
 
 {% endmethod %}

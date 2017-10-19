@@ -3,7 +3,12 @@
 > 读取配置信息
 
 {% method %}
-**参数**
+
+## 请求URL
+
+    http:/域名/index.php/Api/config
+
+## 参数
 
 |参数名|别名|类型|默认值|说明|
 |:----:|:--:|:--:|:----:|:--:|
@@ -31,10 +36,21 @@
 |wap_copyright|手机版权信息|同上|
 |wap_levelurl|手机二级域名|同上|
 
-{% sample lang="php" %}
-**例子**
+{% sample lang="THML" %}
 
-```html
-<yunu:config name="seo_title">
+## 例子
+
+**请求示例**
+
+> http://www.yunucms.cn/index.php/api/config?name=seo_title
+
+**响应示例**
+
+```json
+{
+    "state": 200,
+    "info": "请求成功",
+    "data": "建筑装饰五金,机械五金件,手动工具,电动工具"
+}
 ```
 {% endmethod %}
