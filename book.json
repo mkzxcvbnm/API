@@ -24,8 +24,8 @@
             "theme": "dark",
             "languages": [
                 {
-                    "lang": "html",
-                    "name": "html",
+                    "lang": "HTML",
+                    "name": "HTML",
                     "default": true
                 }
             ]
