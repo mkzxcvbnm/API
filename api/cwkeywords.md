@@ -6,7 +6,7 @@
 
 ## 请求URL
 
-    http:/域名/index.php/Api/cwkeywords
+    http://域名/index.php/Api/cwkeywords
 
 ## 参数
 *无*

@@ -6,7 +6,7 @@
 
 ## 请求URL
 
-    http:/域名/index.php/Api/banner
+    http://域名/index.php/Api/banner
 
 ## 参数
 
@@ -68,7 +68,6 @@
         "type": 1
     }]
 }
-</yunu:banner>
 ```
 
 {% endmethod %}

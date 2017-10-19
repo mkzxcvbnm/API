@@ -6,7 +6,7 @@
 
 ## 请求URL
 
-    http:/域名/index.php/Api/nav
+    http://域名/index.php/Api/nav
 
 ## 参数
 

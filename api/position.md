@@ -6,7 +6,7 @@
 
 ## 请求URL
 
-    http:/域名/index.php/Api/position
+    http://域名/index.php/Api/position
 
 ## 参数
 

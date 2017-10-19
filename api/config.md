@@ -6,7 +6,7 @@
 
 ## 请求URL
 
-    http:/域名/index.php/Api/config
+    http://域名/index.php/Api/config
 
 ## 参数
 

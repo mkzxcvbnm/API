@@ -6,7 +6,7 @@
 
 ## 请求URL
 
-    http:/域名/index.php/Api/block
+    http://域名/index.php/Api/block
 
 ## 参数
 

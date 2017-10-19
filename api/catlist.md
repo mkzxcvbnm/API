@@ -6,7 +6,7 @@
 
 ## 请求URL
 
-    http:/域名/index.php/Api/catlist
+    http://域名/index.php/Api/catlist
 
 ## 参数
 
