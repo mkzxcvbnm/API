@@ -51,7 +51,7 @@
         "seo_desc": null,
         "area": "",
         "top": 0,
-        "pic": "\/uploads\/image\/20170929\/8c181da0f27dc6671dd5ec70453f9117.jpg",
+        "pic": "www.yunucms.cn\/uploads\/image\/20170929\/8c181da0f27dc6671dd5ec70453f9117.jpg",
         "tag": "",
         "conid": 1,
         "piclist": "",
