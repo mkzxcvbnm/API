@@ -36,7 +36,7 @@
     {
         "id": 20,
         "title": "11",
-        "pic": "www.yunucms.cn\/uploads\/image\/20170929\/c20ee6e4f167f19eb37754c6178d8f21.jpg",
+        "pic": "\/\/www.yunucms.cn\/uploads\/image\/20170929\/c20ee6e4f167f19eb37754c6178d8f21.jpg",
         "fpic": "",
         "url": "#",
         "sort": 0,
@@ -45,7 +45,7 @@
     {
         "id": 19,
         "title": "11",
-        "pic": "www.yunucms.cn\/uploads\/image\/20170929\/b6d3bf29720455ef16903e8689fcb4bb.jpg",
+        "pic": "\/\/www.yunucms.cn\/uploads\/image\/20170929\/b6d3bf29720455ef16903e8689fcb4bb.jpg",
         "fpic": "",
         "url": "#",
         "sort": 0,
@@ -54,7 +54,7 @@
     {
         "id": 18,
         "title": "22",
-        "pic": "www.yunucms.cn\/uploads\/image\/20170929\/a01b7740cb8c75cff837c8a8baad3c3e.jpg",
+        "pic": "\/\/www.yunucms.cn\/uploads\/image\/20170929\/a01b7740cb8c75cff837c8a8baad3c3e.jpg",
         "fpic": "",
         "url": "#",
         "sort": 0,
@@ -63,7 +63,7 @@
     {
         "id": 17,
         "title": "11",
-        "pic": "www.yunucms.cn\/uploads\/image\/20170929\/eb242765015da7ac79987234e12b2d3c.jpg",
+        "pic": "\/\/www.yunucms.cn\/uploads\/image\/20170929\/eb242765015da7ac79987234e12b2d3c.jpg",
         "fpic": "",
         "url": "#",
         "sort": 0,

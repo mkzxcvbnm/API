@@ -38,7 +38,7 @@
         "subtitle": "ABOUT US",
         "pid": 0,
         "mid": 37,
-        "pic": "www.yunucms.cn\/uploads\/image\/20170929\/9c945b7db7641940eeb9ac0f9e9b303a.jpg",
+        "pic": "\/\/www.yunucms.cn\/uploads\/image\/20170929\/9c945b7db7641940eeb9ac0f9e9b303a.jpg",
         "seo_title": "",
         "seo_keywords": "",
         "seo_desc": "",

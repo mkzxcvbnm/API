@@ -32,7 +32,7 @@
 {
     "state": 200,
     "info": "请求成功",
-    "data": "<img src=\"www.yunucms.cn\/uploads\/image\/20170929\/583f583fa9414bed1f230809411004dd.png\" \/>"
+    "data": "<img src=\"\/\/www.yunucms.cn\/uploads\/image\/20170929\/583f583fa9414bed1f230809411004dd.png\" \/>"
 }
 ```
 
