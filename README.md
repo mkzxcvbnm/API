@@ -77,8 +77,8 @@ $.ajax({
     data: {
         name: "seo_title"
     },
-    beforeSend: function(xhr) {
-        console.log(xhr);
+    beforeSend: function(jqXHR) {
+        console.log(jqXHR);
     }
 }).done(function(res) {
     if (res.state == 200) {
