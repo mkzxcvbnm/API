@@ -16,7 +16,7 @@
 |:----:|:--:|:--:|:----:|:--:|
 |typeid|类型|number|`必填`|后台栏目ID|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

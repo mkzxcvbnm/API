@@ -23,7 +23,7 @@
 |home|网站首页|生成网站首页网址|
 |search|搜索页面|生成搜索页面网址|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

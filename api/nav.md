@@ -17,7 +17,7 @@
 |typeid|类型|number|`必填`|`1`-主导航 `2`-尾导航 `3`-全部|
 |limit|显示数量|number|`null`|&nbsp;|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

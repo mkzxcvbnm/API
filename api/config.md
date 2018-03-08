@@ -38,7 +38,7 @@
 |wap_copyright|手机版权信息|同上|
 |wap_levelurl|手机二级域名|同上|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

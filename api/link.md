@@ -19,7 +19,7 @@
 |limit|显示数量|number|`null`|不传此参数默认调取所有数据|
 |flag|标示|number|`0`|`1`-有图片 `0`-无图片|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

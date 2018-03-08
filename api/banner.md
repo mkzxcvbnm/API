@@ -18,7 +18,7 @@
 |orderby|排序|string|`id desc`|`asc`-正序 `desc`-倒序|
 |limit|显示数量|number|`null`|&nbsp;|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

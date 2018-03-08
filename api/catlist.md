@@ -19,7 +19,7 @@
 |limit|显示数量|number|`null`||
 |flag|标示|number|`1`|`0`-不显示外部链接和单页 `1`-全部|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

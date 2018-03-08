@@ -18,7 +18,7 @@
 |infolen|内容长度|number|`0`|`0`-不截取 **注意：**图片或丰富类型自定义块勿使用此属性|
 |textflag|内容类型|number|`0`|`1`-输出为img `0`-输出内容|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

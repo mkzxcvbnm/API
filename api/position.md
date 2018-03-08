@@ -19,7 +19,7 @@
 |surl|末尾链接地址|string|`空`||
 |delimiter|分隔符|string|`&gt;&gt;`|设置所有链接之间的间隔符|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

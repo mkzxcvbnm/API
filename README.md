@@ -34,7 +34,7 @@ Yunu API文档
 |`200`|请求成功|
 |`400`|请求失败|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ### json例子
 

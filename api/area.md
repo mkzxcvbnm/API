@@ -19,7 +19,7 @@
 |url|二级域名|number|`0`|`0`-全部 `1`-开启二级域名|
 |limit|显示数量|number|`null`|&nbsp;|
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

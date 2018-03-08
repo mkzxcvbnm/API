@@ -13,7 +13,7 @@
 ## 参数
 *无*
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 

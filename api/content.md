@@ -17,7 +17,7 @@
 |id|内容ID|number|`必填`|详情页内容的ID编号|
 
 
-{% sample lang="THML" %}
+{% sample lang="HTML" %}
 
 ## 例子
 
