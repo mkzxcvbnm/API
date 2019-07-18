@@ -55,4 +55,9 @@
     "data": "建筑装饰五金,机械五金件,手动工具,电动工具"
 }
 ```
+
+**Config中的name支持多个name同时请求**
+
+> 示例: http://www.yunucms.cn/index.php/api/config?name=seo_title*seo_keywords*seo_description
+
 {% endmethod %}
